@@ -1,6 +1,7 @@
 import ButtonAction from '@/components/ButtonAction'
+import BackButton from '@/components/BackButton'
 import React from 'react'
-import BackButton from '@/components/backButton'
+
 const BlogDetailPage = () => {
   return (
     <div>
